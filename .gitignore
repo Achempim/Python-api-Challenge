@@ -1,5 +1,8 @@
 # Adding config.py
-api_key.py
+api_key.py = geoapify_key
+
+# Adding config.py
+weather_api_key 
 
 
 
